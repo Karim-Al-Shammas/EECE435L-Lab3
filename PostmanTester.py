@@ -171,4 +171,5 @@ def api_delete_user(user_id):
 if __name__ == "__main__":
     #app.debug = True
     #app.run(debug=True)
-    app.run()
+    #app.run()
+    print(insert_user.__doc__)
